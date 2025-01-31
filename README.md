@@ -1,0 +1,2 @@
+# NIkom
+sudo atp update
